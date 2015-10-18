@@ -14,6 +14,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TableUpgrageScripts", "TableUpgrageScripts", "{E1631C07-18B3-4E8F-872D-01659AAD48EA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TableCreateScripts", "TableCreateScripts", "{264F9468-8ABB-4D97-980C-11684D64137F}"
+	ProjectSection(SolutionItems) = preProject
+		Create_All_Tables.sql = Create_All_Tables.sql
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{E707998C-B5AE-4A93-BE8A-C4449F95FA7C}"
 EndProject
